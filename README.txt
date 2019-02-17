@@ -1,3 +1,3 @@
 First Git File
-Second Line
-Thirt Line
+<<<<<<< HEAD
+>>>>>>> parent of efc3f69... Second Line added
